@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitish Singh</h1>
 <h3 align="center">B.Tech Student</h3>
 
-- 👨‍💻 All of my projects are available at [https://nitishsingh925.github.io/portfolio/](https://nitishsingh925.github.io/portfolio/)
 
 - 📫 How to reach me **nitishsingh925@gmail.com**
 
