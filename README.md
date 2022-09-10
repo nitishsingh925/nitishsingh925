@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nitish Singh</h1>
-<h3 align="center">B.Tech Student</h3>
+<h1 align="center">Hey 👋 What's Up? </h1>
+<h3 align="center"> Hi 👋, I'm Nitish Singh B.Tech Student </h3>
 
 - 👨‍💻 All of my Portfolio are available at [https://nitishindia.me/portfolio/](https://nitishindia.me/portfolio/)
 
