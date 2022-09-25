@@ -2,6 +2,7 @@
 <h3 align="center"> Hi 👋, I'm Nitish Singh B.Tech Student </h3>
 
 - 👨‍💻 All of my Portfolio are available at [https://nitishindia.me/portfolio/](https://nitishindia.me/portfolio/)
+- 👨‍💻 All of my Digital Real Time are available at [https://nitishindia.me/Digital-Clock-with-HTML-CSS-JavaScript/](https://nitishindia.me/Digital-Clock-with-HTML-CSS-JavaScript/)
 
 - 📫 How to reach me **nitishsingh925@gmail.com**
 
