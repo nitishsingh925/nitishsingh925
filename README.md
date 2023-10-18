@@ -1,8 +1,5 @@
 <h1 align="center">Hey 👋 What's Up? </h1>
-<h3 align="center"> Hi 👋, I'm Nitish Singh B.Tech Student </h3>
-
-- 👨‍💻 All of my Portfolio are available at [https://nitishindia.me/portfolio/](https://nitishindia.me/portfolio/)
-- 👨‍💻 All of my Digital Real Time are available at [https://nitishindia.me/Digital-Clock-with-HTML-CSS-JavaScript/](https://nitishindia.me/Digital-Clock-with-HTML-CSS-JavaScript/)
+<h3 align="center"> Hi 👋, I'm Nitish Singh   < Developer /> </h3>
 
 - 📫 How to reach me **nitishsingh925@gmail.com**
 
@@ -11,8 +8,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nitishsingh925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitishsingh925" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nitishsingh925/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitishsingh925/" height="30" width="40" /></a>
+<a href="https://twitter.com/nitishsingh925" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/14892048/nitish-singh" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/nitishsingh925" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
