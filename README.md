@@ -4,9 +4,9 @@
 
 ### Full Stack Developer
 
-Building modern, scalable Web & Mobile Applications with JavaScript, TypeScript, Laravel, React, and React Native.
+Building modern, scalable Web & Mobile Applications with JavaScript, TypeScript, Laravel, React, React Native, and AI-powered solutions.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%7C+Inertia.js+%7C+React;Next.js+%7C+NestJS+%7C+Node.js;React+Native+%7C+Expo;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%7C+Inertia.js+%7C+React;Next.js+%7C+NestJS+%7C+Node.js;React+Native+%7C+Expo;LLMs+%7C+LangChain+%7C+LangGraph;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -18,7 +18,9 @@ Building modern, scalable Web & Mobile Applications with JavaScript, TypeScript,
 - ⚡ Love creating clean, performant, and user-friendly products
 - 💻 Building modern applications using **Laravel**, **Inertia.js**, **React**, and **Next.js**
 - 📱 Developing cross-platform mobile apps with **React Native** and **Expo**
-- 🏗️ Interested in backend architecture, REST APIs, and scalable systems
+- 🤖 Building AI-powered applications using **LLMs**, **LangChain**, and **LangGraph**
+- 🔗 Integrating AI with REST APIs, databases, and modern applications
+- 🏗️ Interested in backend architecture, REST APIs, scalable systems, and AI automation
 - 🐳 Enjoy working with Docker, PostgreSQL, Redis, and Cloud technologies
 - 🌱 Always learning and exploring new technologies
 
@@ -98,6 +100,26 @@ Building modern, scalable Web & Mobile Applications with JavaScript, TypeScript,
 
 ---
 
+## 🤖 AI & LLM
+
+<p>
+<img src="https://img.shields.io/badge/LLMs-0F172A?style=for-the-badge"/>
+<img width="8"/>
+<img src="https://img.shields.io/badge/LangChain-16A34A?style=for-the-badge"/>
+<img width="8"/>
+<img src="https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge"/>
+<img width="8"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img width="8"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img width="8"/>
+<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
+<img width="8"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+</p>
+
+---
+
 ## 🗄️ Database
 
 <p>
@@ -152,8 +174,13 @@ Building modern, scalable Web & Mobile Applications with JavaScript, TypeScript,
 
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
 
-</p>
+<img src="https://img.shields.io/badge/LLMs-0F172A?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/LangChain-16A34A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge"/>
+
+</p>
 
 <div align="center">
 
